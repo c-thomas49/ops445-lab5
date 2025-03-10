@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: celine
+    Linux system name: linuxmint
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/celine/ops445/lab5
+    Start at: Sun Mar  9 22:59:23 2025
+=================================================================
